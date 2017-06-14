@@ -86,6 +86,7 @@ A collection of E-books by PacketPub
 
 - [Expert Python Programming](https://github.com/nairuzabulhul/E-Books/blob/master/Python/EXPERT_PYTHON_PROGRAMMING.pdf)
 
+- [Learning Python for Forensics](https://github.com/nairuzabulhul/E-Books/blob/master/Python/LEARNING_PYTHON_FOR_FORENSICS.pdf)
 
 
 ### Java
