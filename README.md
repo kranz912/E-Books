@@ -52,6 +52,8 @@ A collection of E-books by PacketPub
 
 - [OpenCV Computer Vision with Python](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/OPENCV_COMPUTER_VISION_WITH_PYTHON.pdf)
 
+- [Machine Learning in Java](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/MACHINE_LEARNING_IN_JAVA.pdf)
+
 ### Data Anaylsis 
 
 - [Practical Data Analysis](https://github.com/nairuzabulhul/E-Books/blob/master/Data%20Analysis/PRACTICAL_DATA_ANALYSIS.pdf)
